@@ -1,0 +1,57 @@
+source,target,weight
+Harry Potter,Ron Weasley,25
+Harry Potter,Hermione Granger,25
+Harry Potter,Albus Dumbledore,12
+Harry Potter,Rubeus Hagrid,14
+Harry Potter,Severus Snape,11
+Harry Potter,Draco Malfoy,10
+Harry Potter,Ginny Weasley,9
+Harry Potter,Sirius Black,8
+Harry Potter,Remus Lupin,7
+Harry Potter,Neville Longbottom,8
+Harry Potter,Voldemort,13
+Harry Potter,Minerva McGonagall,9
+Harry Potter,Dobby,6
+Harry Potter,Luna Lovegood,7
+Ron Weasley,Hermione Granger,24
+Ron Weasley,Ginny Weasley,10
+Ron Weasley,Fred Weasley,8
+Ron Weasley,George Weasley,8
+Ron Weasley,Arthur Weasley,7
+Ron Weasley,Molly Weasley,7
+Hermione Granger,Ginny Weasley,8
+Hermione Granger,Neville Longbottom,7
+Hermione Granger,Luna Lovegood,6
+Hermione Granger,Albus Dumbledore,8
+Albus Dumbledore,Minerva McGonagall,10
+Albus Dumbledore,Severus Snape,12
+Albus Dumbledore,Rubeus Hagrid,9
+Albus Dumbledore,Voldemort,11
+Albus Dumbledore,Sirius Black,5
+Albus Dumbledore,Remus Lupin,5
+Severus Snape,Draco Malfoy,7
+Severus Snape,Voldemort,10
+Severus Snape,Minerva McGonagall,6
+Severus Snape,Remus Lupin,5
+Rubeus Hagrid,Albus Dumbledore,9
+Rubeus Hagrid,Ron Weasley,6
+Rubeus Hagrid,Hermione Granger,6
+Draco Malfoy,Voldemort,6
+Draco Malfoy,Lucius Malfoy,7
+Draco Malfoy,Bellatrix Lestrange,4
+Voldemort,Bellatrix Lestrange,9
+Voldemort,Lucius Malfoy,7
+Voldemort,Peter Pettigrew,6
+Sirius Black,Remus Lupin,9
+Sirius Black,Peter Pettigrew,6
+Remus Lupin,Peter Pettigrew,5
+Fred Weasley,George Weasley,12
+Arthur Weasley,Molly Weasley,10
+Cedric Diggory,Harry Potter,5
+Cho Chang,Harry Potter,4
+Dolores Umbridge,Harry Potter,8
+Dolores Umbridge,Albus Dumbledore,5
+Minerva McGonagall,Hermione Granger,6
+Minerva McGonagall,Ron Weasley,5
+Neville Longbottom,Luna Lovegood,6
+Ginny Weasley,Luna Lovegood,5
